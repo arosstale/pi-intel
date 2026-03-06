@@ -1,6 +1,6 @@
 {
   "name": "@artale/pi-intel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Competitor intelligence. Track GitHub repos, npm packages, download trends, weekly digests.",
   "keywords": ["pi-package","pi-extension","intel","competitor","tracking","market"],
   "license": "MIT",
