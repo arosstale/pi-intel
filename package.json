@@ -1,6 +1,6 @@
 {
   "name": "@artale/pi-intel",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Competitor intelligence. Track GitHub repos, npm packages, download trends, weekly digests.",
   "keywords": [
     "pi-package",
